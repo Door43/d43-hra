@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hra:home|Door43 (hra)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hra|d43-hra repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hra/archive/master.zip|d43-hra.zip]]
+
+**Recent Changes**
+{{changes>ns = hra}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hra|Ethnologue data]]
+
